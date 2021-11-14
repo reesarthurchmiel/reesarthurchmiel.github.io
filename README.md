@@ -61,5 +61,5 @@ Using BEM for this project was a useful strategy to keep my HTML and CSS readabl
 
 ### Useful resources
 
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - I completed their Front-end Developer course to refresh my skills and learn the latest best practices.
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - I completed their Front-End Developer course to refresh my skills and learn the latest best practices.
 - [Josh W Comeau's transitions tutorial](https://www.joshwcomeau.com/animation/css-transitions/) - This is a beautiful article written by someone clearly skilled at CSS. It was a joy to read and I cannot recommend it enough.
