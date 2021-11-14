@@ -613,7 +613,7 @@ button {
 
 	/* Lightbox */
 	.lightbox {
-		--width: 550px;
+		--width: 70vh;
 		position: fixed;
 		left: 0;
 		right: 0;
