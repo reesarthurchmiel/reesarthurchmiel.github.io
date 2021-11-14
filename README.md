@@ -48,21 +48,14 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS variables
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- BEM CSS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+### What I learnt
 
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+I learnt a lot during this project. The most exciting bit for me was using BEM and CSS variables to create a reusable image slideshow component that could be reused with easily changed properties for different situations. I used this slideshow component in the main page and the lightbox gallery. I also enjoyed learning about CSS transitions, which I used on the mobile navigation pane and the slideshow. Lastly, I learnt a useful trick to re-colour SVG images with the `filter` property, and with the `fill` property. 
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
@@ -84,9 +77,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+Using BEM for this project was a useful strategy to keep my HTML and CSS readable, but I can see that in a larger codebase it would get unwieldy quickly. For future development I would like to learn a component framework, such as React or Vue, and use CSS-in-JS.
 
 ### Useful resources
 
