@@ -33,11 +33,11 @@ Users should be able to:
 
 ### Screenshot
 
-[](./screenshots/desktop.png)
-[](./screenshots/desktop-hover.png)
-[](./screenshots/desktop-lightbox.png)
-[](./screenshots/mobile.png)
-[](./screenshots/mobile-navigation.png)
+![](./screenshots/desktop.png)
+![](./screenshots/desktop-hover.png)
+![](./screenshots/desktop-lightbox.png)
+![](./screenshots/mobile.png)
+![](./screenshots/mobile-navigation.png)
 
 ### Links
 
